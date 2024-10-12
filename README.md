@@ -1,4 +1,4 @@
-<img src="./assets/Imagem Gerada.jpg" />
+<img align="right" alt="Developer" src="./assets/Imagem Gerada.jpg" height="280" />
 
 <h1 align="center">Olá 👋, sou o Gabriel</h1>
 <h3 align="center">Estadante de análise e desenvolvimento de sistemas</h3>
